@@ -69,9 +69,3 @@ To maintain high observability, the system captures all unauthorized access atte
    UPSTASH_WORKFLOW_URL=your_deployment_url
    MONGODB_URI=your_mongodb_connection_string
    ```
-  
-
-### **Why this README stands out for N26:**
-* It uses **Senior technical terms** like "Durable Execution," "Forensic Audit Logging," and "Architectural Resilience".
-* It explicitly explains **why** you chose Upstash (Reliability over basic Cron).
-* It includes a **Security** section, which is the primary focus of the department you are applying to.
